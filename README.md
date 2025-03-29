@@ -1,2 +1,2 @@
 # Password-Gen
-It's generate a nice and secure passwors
+It's generate a nice and secure password
